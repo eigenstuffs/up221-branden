@@ -8,7 +8,7 @@ of interest in formal Python training and to expand my knowledgebase on quantita
 
 
 I have substantial experience in R for all stages of the data analysis pipeline, with substantive training in econometrics.
-The idea for my project is inspired by [Leah Stokes' great natural experiment](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12220),
+My proposed project is inspired by [Leah Stokes' great 2016 natural experiment](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12220),
 where she finds evidence for electoral backlash affecting incumbent politicans in response to a wind energy program. I hope
 to create a similar project, instead finding areas with the greatest disparities in wind energy potential and wind energy
 development. I am curious as to whether the hypothesis holds that wealthier and heavily white areas are the ones with the greatest
